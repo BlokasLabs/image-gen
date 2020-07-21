@@ -6,9 +6,13 @@ MOD DUO team has done a remarkable job for the whole Linux audio open-source com
 
 You can find more information about MODEP on [our website](https://blokas.io/modep) and [documentation page](https://blokas.io/modep/docs).
 
+# MODEP is Now Based on Debian Packages
+
+See https://github.com/BlokasLabs/modep-debs for the package build sources. This repository is now read only and available only for historical purposes.
+
 # Found a Bug?
 
-If you're here because you want to report an issue in MODEP, please visit [our community forum](https://community.blokas.io/c/modep) or open an issue in this repository.
+If you're here because you want to report an issue in MODEP, please visit [our community forum](https://community.blokas.io/c/modep).
 
 # Contributing
 
